@@ -1,0 +1,10 @@
+# Ignorar a base de dados pesada
+train.csv
+
+# Ignorar o modelo treinado (arquivos grandes binários)
+*.pkl
+
+# Ignorar pastas virtuais do Python
+__pycache__/
+.venv/
+venv/
